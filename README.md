@@ -23,3 +23,4 @@ A real-time chat application built with **React**, **Node.js**, **Express**, **S
 ## Setting up
 
 Run **npm install** in both frontend and backend to get **node_modules** which contains required packages.
+Run **npm run dev** on both frontend and backend folder to run the application.
